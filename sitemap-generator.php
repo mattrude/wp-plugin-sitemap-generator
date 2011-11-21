@@ -22,8 +22,15 @@ function xml_feed_rewrite($wp_rewrite) {
 
         $wp_rewrite->rules = $feed_rules + $wp_rewrite->rules;
 }
-
 add_filter('generate_rewrite_rules', 'xml_feed_rewrite');
+
+function sitemap_no_trailing_slash( $redirect_url ) {
+    if ( is_feed() && strpos( $redirect_url, 'sitemap.xml/' ) !== FALSE )
+		return;
+
+    return $redirect_url;
+}
+add_filter( 'redirect_canonical', 'sitemap_no_trailing_slash' );
 
 function do_feed_sitemap() {
         $template_dir = dirname(__FILE__) . '/templates';
