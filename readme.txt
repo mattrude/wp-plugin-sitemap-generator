@@ -1,4 +1,4 @@
-=== Random Image Block ===
+=== Sitemap Generator ===
 Contributors: mattrude
 Author URI: http://mattrude.com/
 Plugin URI: http://technology.mattrude.com/projects/sitemap-wp-plugin/
