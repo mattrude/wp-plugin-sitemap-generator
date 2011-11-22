@@ -34,8 +34,9 @@ As with most WordPress plugins, there is two ways of installing this plugin.
 
 ## Changelog
 
+### Trunk
+* Replace `get_post_time()` with `get_post_modified_time()`, fixes #1
 ### Version 1.1
-
 * Added filter to remove trailing slash from sitemap.xml, props [Ov3rfly](http://technology.mattrude.com/2011/10/07/wordpress-sitemap-generator-plugin/#comment-569)
 
 ### Version 1.0
