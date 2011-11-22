@@ -1,12 +1,12 @@
-## Sitemap Generator
-Contributors: mattrude
-Author URI: http://mattrude.com/
-Plugin URI: http://technology.mattrude.com/projects/sitemap-wp-plugin/
-Requires at least: 3.3
-Tested up to: 3.3
-Stable tag: 1.1
-
+# Sitemap Generator
 Automatic generate standard XML sitemap (http://example.com/sitemap.xml) that supports the providers including Google, Yahoo, MSN, Ask.com, and others.
+
+* Contributors: **mattrude**
+* Author URI: **http://mattrude.com/**
+* Plugin URI: **http://technology.mattrude.com/projects/sitemap-wp-plugin/**
+* Requires at least: **3.3**
+* Tested up to: **3.3**
+* Stable tag: **1.1**
 
 ## Description
 This plugin will create a sitemap for your WordPress site (http://example.com/sitemap.xml). No files are stored on your disk, the sitemap.xml file is generate as needed, like your feeds.  No UI to speak of, just drop in place and your good to go.
@@ -18,16 +18,17 @@ As with most WordPress plugins, there is two ways of installing this plugin.
 
 ### Primary Option
 
+1. Download the latest version of this plugin from the [download page](https://github.com/mattrude/wp-plugin-sitemap-generator/downloads).
 1. Go to your WordPress Dashboard and login as an Admin
-1. From your Dashboard go to `Plugins` section on the left hand side and select `Add New`.
-1. Search for `Random Image Block`
+1. From your Dashboard go to `Plugins` section on the left hand side and select `upload` from the top.
+1. Find the downloaded plugin in the upload pop up window
 1. Click the `Install Now` link and follow the instructions.
 
 ### Secondary Option
 
-1. Download the latest version from the download page (http://wordpress.org/extend/plugins/random-image-block/)
-1. Extract the zip file and copy the folder "random-image-block" into the "wp-content/plugins/" directory in your WordPress installation.
-1. Activate the plugin from your Dashboard by going to Plugins -> Installed page.
+1. Log onto your web server via SSH or Telnet, and go into the directory that holds your WordPress install.
+1. Move into your plugins directory `cd wp-content/plugins`
+1. Clone the current revision with the command `git clone git://github.com/mattrude/wp-plugin-sitemap-generator.git`
 
 ## Changelog
 
