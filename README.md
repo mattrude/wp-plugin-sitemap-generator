@@ -41,7 +41,7 @@ As with most WordPress plugins, there is two ways of installing this plugin.
 
 ## Changelog
 
-### Trunk
+### Devel Version
 * Replace `get_post_time()` with `get_post_modified_time()`, Ticket #1
 
 ### Version 1.1
