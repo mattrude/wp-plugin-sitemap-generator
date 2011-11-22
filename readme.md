@@ -13,7 +13,7 @@ This plugin will create a sitemap for your WordPress site (http://example.com/si
 
 This plugin was original created for a WordPress Multi-Site setup (with the files placed in the mu-plugins folder).  This plugin also works well on Single User setups of WordPress as well.
 
-The Sitemap Generator Plugin is licensed under the GNU General Public License, version 2 as published by the Free Software Foundation, Inc.
+The Sitemap Generator Plugin is licensed under the [GNU General Public License, version 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) as published by the [Free Software Foundation, Inc](http://www.gnu.org/).
 
 ## Installation
 As with most WordPress plugins, there is two ways of installing this plugin.
