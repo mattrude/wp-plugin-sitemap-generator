@@ -15,6 +15,13 @@ This plugin was original created for a WordPress Multi-Site setup (with the file
 
 The Sitemap Generator Plugin is licensed under the [GNU General Public License, version 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) as published by the [Free Software Foundation, Inc](http://www.gnu.org/).
 
+## Download
+There are several diffrent way's of downloading and installing this plugin, both via direct download & git.
+
+* Devel Version: [Download zip](https://github.com/mattrude/wp-plugin-sitemap-generator/zipball/master)
+* Version 1.1: [Download zip](https://github.com/downloads/mattrude/wp-plugin-sitemap-generator/sitemap-generator.v1.1.zip)
+* Version 1.0: [Download zip](https://github.com/downloads/mattrude/wp-plugin-sitemap-generator/sitemap-generator.v1.0.zip)
+
 ## Installation
 As with most WordPress plugins, there is two ways of installing this plugin.
 
