@@ -3,7 +3,7 @@
 Plugin Name: Sitemap Generator
 Plugin URI: https://github.com/mattrude/wp-plugin-sitemap-generator
 Description: Automatic generate standard XML sitemap (http://example.com/sitemap.xml) that supports the protocol including Google, Yahoo, MSN, Ask.com, and others. No files stored on your disk, the sitemap.xml file is generate as needed, like your feeds.
-Version: 1.0
+Version: 1.1
 Author: Matt Rude
 Author URI: http://mattrude.com/
 */
