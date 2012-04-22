@@ -4,8 +4,8 @@ Automatic generate standard XML sitemap (http://example.com/sitemap.xml) for Wor
 * Contributors: **mattrude**
 * Author URI: **http://mattrude.com/**
 * Plugin URI: **http://technology.mattrude.com/projects/sitemap-wp-plugin/**
-* Requires at least: **3.3**
-* Tested up to: **3.3**
+* Requires at least WordPress: **3.3**
+* Tested up to WordPress: **3.4**
 * Stable tag: **1.1**
 
 ## Description
