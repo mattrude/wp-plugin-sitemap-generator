@@ -22,6 +22,10 @@ There are several diffrent way's of downloading and installing this plugin, both
 * Version 1.1: [Download zip](https://github.com/downloads/mattrude/wp-plugin-sitemap-generator/sitemap-generator.v1.1.zip)
 * Version 1.0: [Download zip](https://github.com/downloads/mattrude/wp-plugin-sitemap-generator/sitemap-generator.v1.0.zip)
 
+You may also download this plugin directly from the git repository using the following command:
+
+    git clone git@github.com:mattrude/wp-plugin-sitemap-generator.git sitemap-generator
+
 ## Installation
 As with most WordPress plugins, there is two ways of installing this plugin.
 
@@ -42,7 +46,7 @@ As with most WordPress plugins, there is two ways of installing this plugin.
 ## Changelog
 
 ### Devel Version
-* Replace `get_post_time()` with `get_post_modified_time()`, Ticket #1
+* Replace `get_post_time()` with `get_post_modified_time()`
 
 ### Version 1.1
 * Added filter to remove trailing slash from sitemap.xml, props [Ov3rfly](http://technology.mattrude.com/2011/10/07/wordpress-sitemap-generator-plugin/#comment-569)
