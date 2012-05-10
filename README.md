@@ -1,8 +1,7 @@
 # WordPress Sitemap Generator Plugin
 Automatic generate standard XML sitemap (http://example.com/sitemap.xml) for WordPress that supports the providers including Google, Yahoo, MSN, Ask.com, and others.
 
-* Contributors: **mattrude**
-* Author URI: **http://mattrude.com/**
+* Author: **[mattrude](http://mattrude.com/)**
 * Plugin URI: **http://technology.mattrude.com/projects/sitemap-wp-plugin/**
 * Requires at least WordPress: **3.3**
 * Tested up to WordPress: **3.4**
